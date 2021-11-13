@@ -1,1 +1,2 @@
 # saturejka
+# git clone
